@@ -1,0 +1,40 @@
+body{
+    margin:0;
+    padding: 0;
+    background: linear-gradient(#2980b9,#8e44ad);   
+}
+.register{
+    height: 120vh;
+}
+.flat{
+    background-color: aliceblue;
+    width: 2.6in;
+    margin: 300px;
+    padding: 25px;
+    border-radius: 15px;
+}
+.heading{
+    text-align: center;
+    font-family: 'Gill Sans','Gill Sans MT','Calibri','Trebuchet MS', sans-serif;
+}
+.level{
+    display: block;
+}
+.line{
+    padding: 5px;
+    margin:5px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.sign{
+    text-align: center;
+}
+.button{
+    color: aliceblue;
+    width: 170px;
+    padding: 6px;
+    border:none;
+    border-radius: 15px;
+    background: linear-gradient(#2980b9,#8e44ad);
+    
+}
